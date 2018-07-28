@@ -1,0 +1,25 @@
+{
+    "name": "gitbook-plugin-katex-gf",
+    "description": "Math typesetting using KaTex into GitBook (Global function)",
+    "main": "index.js",
+    "version": "0.0.4",
+    "engines": {
+        "gitbook": ">=3.0.0"
+    },
+    "homepage": "https://github.com/liushilive/gitbook-plugin-katex-gf",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/liushilive/gitbook-plugin-katex-gf.git"
+    },
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/liushilive/gitbook-plugin-katex-gf/issues"
+    },
+    "dependencies": {
+        "katex": ">=0.10.0-beta"
+    },
+    "keywords": [
+        "math",
+        "latex"
+    ]
+}
